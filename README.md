@@ -1,5 +1,6 @@
 # nicholsinstructionalsupport
 Mrs. Nichols' Instructional Support Website
+
 Dear Teachers,
 
 I am thrilled to introduce you to our new instructional support website, designed to help you with your teaching needs. My name is Mrs. Nichols, and as your instructional coach, I am committed to providing you with the resources and tools you need to help your students achieve their fullest potential.
