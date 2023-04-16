@@ -1,1 +1,80 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web Design and Development with Charlotte</title>
+        <style type="text/css">
+            body {
+                font-family: 'Times New Roman', Times, serif;
+                background-color: rgb(155, 155, 159);}
+            ul {
+                list-style-image: url(Assets/bullet.png);
+            }
+            h1 {
+                color: rgb(255,255,255);}
+            h2 {
+                font-family: "Gill Sans", Arial, sans-serif;
+                font-size: 120%;
+                text-transform: uppercase;
+                letter-spacing: 0.2em;}
+            h3 {
+                width: 300px;
+                border: 3px dotted #ffffff;}
+            h3 {
+            font-size: 100%;}
+            p {
+                font-family: Arial, Verdana, sans-serif;
+                line-height: 1.4em;
+                color: #000000;}
+            p.intro:first-line {
+                font-weight: bold;}
+            .credits {
+                font-style: italic;
+                text-align: right;}
+            a {
+                text-decoration: none;}
+            a:hover {
+                text-decoration: underline;}
+            h1 {
+                border: 5px solid #cccccc;
+                padding: 10px;
+                width: 675px;
+                text-align: center;
+                border-radius: 10px;
+                -moz-border-radius: 10px;
+                -webkit-border-radius: 10px;}
+            blockquote {
+                float: right;
+                width: 175px;
+                font-size: 130%;
+                font-style: italic;
+                color: #ffffff;
+                font-family: Georgia, Times, serif;
+                margin: 0px 0px 10px 10px;
+                padding: 10px;
+                border-top: 1px solid #665544;
+                border-bottom: 1px solid #665544;}
+            h1 {
+                background-color: #ff0e0e;
+            }
+            nav {
+                background-color: #333;
+                height: 50px
+            }
+        </style>
+    </head>
+    
+    <body>
+        
+        <header> 
+            <h1>Lesson Ideas</h1>
+            
+            </p>
+        </header>       
+        
+        <div>
+        <footer 
+        <p></p>
+            
+        </footer>
+    </body>
+</html>
