@@ -80,6 +80,24 @@
             li a:hover {
                 background-color: #111;
             }
+            .video-grid {
+                display: grid;
+                grid-template-columns: repeat(3, 1fr); /* adjust the number of columns as needed */
+                grid-gap: 20px; /* adjust the gap between videos as needed */
+            }
+            .video-container {
+                position: relative;
+                width: 100%;
+                height: 0;
+                padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            }
+            .video-container iframe {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
         </style>
     </head>
     <body>
@@ -100,6 +118,16 @@
             <center><img src="tips.png" alt="Tips Bitmoji"></center>
             <p>
                 <h2>Welcome to technology tips for teachers! In this section, you will find some useful tips and tricks to help you integrate technology into your teaching practice. From online resources to classroom management tools, I've got you covered. My aim is to make technology a seamless part of your teaching, so you can focus on what matters most: inspiring and educating your students. Browse my tips below and start exploring the world of technology in education today.</h2>
+                <div class="video-grid">
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/watch?v=AqiBY6_324k"></iframe>
+                    </div> <div class="video-container">
+                    <iframe src="https://www.youtube.com/watch?v=HBILVAzt9kg"></iframe>
+                    </div>
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/watch?v=Qxwqgvbl7og"></iframe>
+                    </div>
+                    </div>
             </p>
         </header>       
         
